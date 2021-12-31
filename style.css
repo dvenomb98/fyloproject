@@ -2,7 +2,7 @@ article {
   background: #1c2431;
   background-size: contain;
   background-repeat: no-repeat;
-  background-image: url(../img/bg-curvy-desktop.svg);
+  background-image: url(bg-curvy-desktop.svg);
   background-position: bottom;
 }
 
@@ -37,7 +37,7 @@ article {
 
 @media screen and (max-width: 700px) {
   article {
-    background-image: url(../img/bg-curvy-desktop.svg);
+    background-image: url(bg-curvy-desktop.svg);
   }
   .article-content img {
     width: 17em;
